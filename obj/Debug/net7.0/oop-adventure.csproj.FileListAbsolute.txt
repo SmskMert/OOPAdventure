@@ -1,0 +1,15 @@
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\bin\Debug\net7.0\oop-adventure.exe
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\bin\Debug\net7.0\oop-adventure.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\bin\Debug\net7.0\oop-adventure.runtimeconfig.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\bin\Debug\net7.0\oop-adventure.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\bin\Debug\net7.0\oop-adventure.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\obj\Debug\net7.0\oop-adventure.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\obj\Debug\net7.0\oop-adventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\obj\Debug\net7.0\oop-adventure.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\obj\Debug\net7.0\oop-adventure.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\obj\Debug\net7.0\oop-adventure.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\obj\Debug\net7.0\oop-adventure.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\obj\Debug\net7.0\refint\oop-adventure.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\obj\Debug\net7.0\oop-adventure.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\obj\Debug\net7.0\oop-adventure.genruntimeconfig.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\oop-adventure\obj\Debug\net7.0\ref\oop-adventure.dll

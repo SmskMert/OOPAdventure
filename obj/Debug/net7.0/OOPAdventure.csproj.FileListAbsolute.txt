@@ -1,0 +1,30 @@
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\bin\Debug\net7.0\OOPAdventure.exe
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\bin\Debug\net7.0\OOPAdventure.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\bin\Debug\net7.0\OOPAdventure.runtimeconfig.json
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\bin\Debug\net7.0\OOPAdventure.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\bin\Debug\net7.0\OOPAdventure.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\obj\Debug\net7.0\OOPAdventure.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\obj\Debug\net7.0\OOPAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\obj\Debug\net7.0\OOPAdventure.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\obj\Debug\net7.0\OOPAdventure.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\obj\Debug\net7.0\OOPAdventure.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\obj\Debug\net7.0\OOPAdventure.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\obj\Debug\net7.0\refint\OOPAdventure.dll
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\obj\Debug\net7.0\OOPAdventure.pdb
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\obj\Debug\net7.0\OOPAdventure.genruntimeconfig.cache
+D:\05.Software Development\04.BAU-BRIGHT\00.C# Denemeler\01.LinkedinLearning\OOPwithC#\OOPAdventure\obj\Debug\net7.0\ref\OOPAdventure.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\bin\Debug\net7.0\OOPAdventure.exe
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\bin\Debug\net7.0\OOPAdventure.deps.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\bin\Debug\net7.0\OOPAdventure.runtimeconfig.json
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\bin\Debug\net7.0\OOPAdventure.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\bin\Debug\net7.0\OOPAdventure.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\obj\Debug\net7.0\OOPAdventure.csproj.AssemblyReference.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\obj\Debug\net7.0\OOPAdventure.GeneratedMSBuildEditorConfig.editorconfig
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\obj\Debug\net7.0\OOPAdventure.AssemblyInfoInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\obj\Debug\net7.0\OOPAdventure.AssemblyInfo.cs
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\obj\Debug\net7.0\OOPAdventure.csproj.CoreCompileInputs.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\obj\Debug\net7.0\OOPAdventure.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\obj\Debug\net7.0\refint\OOPAdventure.dll
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\obj\Debug\net7.0\OOPAdventure.pdb
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\obj\Debug\net7.0\OOPAdventure.genruntimeconfig.cache
+D:\05.Software Development\04.BAU-BRIGHT\02.ClonedRepo\OOPAdventure\obj\Debug\net7.0\ref\OOPAdventure.dll
